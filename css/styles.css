@@ -47,6 +47,11 @@ button[type="reset"] {
     background-color: #dc3545;
 }
 
+button.grey-button {
+    background-color: #ccc;
+    color: #000;
+}
+
 table {
     margin: 20px auto;
     border-collapse: collapse;
